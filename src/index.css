@@ -1,0 +1,90 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --cyber-bg-1: #050814;
+    --cyber-bg-2: #0a1128;
+    --cyber-bg-3: #00172e;
+    --neon-cyan: #00f2fe;
+    --neon-blue: #4facfe;
+    --neon-purple: #9b51e0;
+  }
+
+  body {
+    background-color: #050814;
+    color: #e2e8f0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    overflow-x: hidden;
+  }
+}
+
+/* Cyber Tech Background and Patterns */
+.cyber-deep-bg {
+  background: 
+    radial-gradient(ellipse 90% 40% at 50% -10%, rgba(0, 242, 254, 0.12) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 50% at 90% 90%, rgba(155, 81, 224, 0.08) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 50% at 10% 80%, rgba(79, 172, 254, 0.08) 0%, transparent 60%),
+    linear-gradient(180deg, #050814 0%, #0a1128 50%, #00172e 100%);
+  background-attachment: fixed;
+}
+
+.cyber-grid-pattern {
+  background-size: 36px 36px;
+  background-image: 
+    linear-gradient(to right, rgba(0, 242, 254, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0, 242, 254, 0.05) 1px, transparent 1px);
+}
+
+/* Glassmorphism & Neon Glow */
+.cyber-glass {
+  background: rgba(10, 17, 40, 0.78);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(0, 242, 254, 0.25);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.45), 0 0 15px rgba(0, 242, 254, 0.08);
+}
+
+.cyber-glass-card {
+  background: rgba(8, 15, 36, 0.82);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(0, 242, 254, 0.2);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+.cyber-glass-card:hover {
+  border-color: rgba(0, 242, 254, 0.45);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.5), 0 0 16px rgba(0, 242, 254, 0.15);
+}
+
+.neon-text-cyan {
+  color: #00f2fe;
+  text-shadow: 0 0 12px rgba(0, 242, 254, 0.6);
+}
+
+.neon-glow-cyan {
+  box-shadow: 0 0 15px rgba(0, 242, 254, 0.2);
+}
+
+.neon-glow-purple {
+  box-shadow: 0 0 15px rgba(155, 81, 224, 0.25);
+}
+
+/* Custom Cyber Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #050814;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 242, 254, 0.3);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 242, 254, 0.6);
+}

@@ -1,0 +1,2229 @@
+{
+  "account_id": "lop3c1_2026",
+  "teacher_name": "Cô giáo Chủ nhiệm (Lớp 3C1)",
+  "display_class_name": "Lớp 3C1",
+  "last_updated": "2026-10-23T12:54:21.229Z",
+  "device_info": "Chrome trên Windows 10/11",
+  "version": 1,
+  "payload": {
+    "username": "lop3c1_2026",
+    "className": "Lớp 3C1",
+    "schoolYear": "2026",
+    "teacherName": "Cô giáo Chủ nhiệm (Lớp 3C1)",
+    "schoolName": "Trường Tiểu học Hoài Nhơn",
+    "customClassPrompt": "Lớp Lớp 3C1 (Năm học 2026): Chú trọng rèn luyện nề nếp tự học, tinh thần đoàn kết giúp đỡ bạn bè, giải thích trực quan các bài toán có lời văn và phát huy tối đa năng lực học sinh theo Thông tư 27.",
+    "students": [
+      {
+        "id": "hs-imported-1",
+        "stt": 1,
+        "fullName": "ĐINH NGUYỄN TÚ ANH",
+        "birthYear": 13,
+        "gender": "Nữ",
+        "parentName": "Đinh Văn Tiến",
+        "phone": "0971171216",
+        "username": "lop3c1_1",
+        "password": "123456@",
+        "seat": {
+          "group": 1,
+          "tableIndex": 0,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em ĐINH NGUYỄN TÚ ANH chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-2",
+        "stt": 2,
+        "fullName": "PHAN NGUYỄN GIA BẢO",
+        "birthYear": 5,
+        "gender": "Nữ",
+        "parentName": "Phan Văn Kiệt",
+        "phone": "0964336819",
+        "username": "lop3c1_2",
+        "password": "123456@",
+        "seat": {
+          "group": 2,
+          "tableIndex": 0,
+          "position": "right"
+        },
+        "stars": 18,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [
+          {
+            "id": "log-1792759735987-99jq",
+            "date": "2026-10-22",
+            "time": "19:48",
+            "type": "praise",
+            "category": "Khen thưởng sư phạm",
+            "note": "Sticker: Sáng Tạo 💡",
+            "points": 1
+          },
+          {
+            "id": "log-1792759735579-cttc",
+            "date": "2026-10-22",
+            "time": "19:48",
+            "type": "praise",
+            "category": "Khen thưởng sư phạm",
+            "note": "Sticker: Rất Chăm Chỉ 🐝",
+            "points": 1
+          },
+          {
+            "id": "log-1792759735235-k862",
+            "date": "2026-10-22",
+            "time": "19:48",
+            "type": "praise",
+            "category": "Khen thưởng sư phạm",
+            "note": "Ngôi sao sáng của tuần",
+            "points": 3
+          },
+          {
+            "id": "log-1792759734835-2gdd",
+            "date": "2026-10-22",
+            "time": "19:48",
+            "type": "praise",
+            "category": "Khen thưởng sư phạm",
+            "note": "Giải bài xuất sắc và hỗ trợ bạn bè",
+            "points": 2
+          },
+          {
+            "id": "log-1792759734148-yozc",
+            "date": "2026-10-22",
+            "time": "19:48",
+            "type": "praise",
+            "category": "Khen thưởng sư phạm",
+            "note": "Phát biểu hăng hái xây dựng bài",
+            "points": 1
+          }
+        ],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em PHAN NGUYỄN GIA BẢO chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-3",
+        "stt": 3,
+        "fullName": "NGUYỄN DUY BÌNH",
+        "birthYear": 22,
+        "gender": "Nam",
+        "parentName": "Nguyễn Khánh Duy",
+        "phone": "0963423523",
+        "username": "lop3c1_3",
+        "password": "123456@",
+        "seat": {
+          "group": 3,
+          "tableIndex": 0,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em NGUYỄN DUY BÌNH chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-4",
+        "stt": 4,
+        "fullName": "NGUYỄN LÊ NHẬT CHƯƠNG",
+        "birthYear": 12,
+        "gender": "Nam",
+        "parentName": "Nguyễn Văn Chí",
+        "phone": "0984648444",
+        "username": "lop3c1_4",
+        "password": "123456@",
+        "seat": {
+          "group": 1,
+          "tableIndex": 0,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em NGUYỄN LÊ NHẬT CHƯƠNG chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-5",
+        "stt": 5,
+        "fullName": "NGUYỄN BÁCH ĐA",
+        "birthYear": 2,
+        "gender": "Nam",
+        "parentName": "Nguyễn Minh Đức",
+        "phone": "0342907798",
+        "username": "lop3c1_5",
+        "password": "123456@",
+        "seat": {
+          "group": 2,
+          "tableIndex": 0,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "unexcused"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em NGUYỄN BÁCH ĐA chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-6",
+        "stt": 6,
+        "fullName": "VÕ NGỌC LINH ĐAN",
+        "birthYear": 13,
+        "gender": "Nữ",
+        "parentName": "Võ Quốc Toàn",
+        "phone": "0969777046",
+        "username": "lop3c1_6",
+        "password": "123456@",
+        "seat": {
+          "group": 3,
+          "tableIndex": 0,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em VÕ NGỌC LINH ĐAN chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-7",
+        "stt": 7,
+        "fullName": "TRƯƠNG VÕ MINH ĐẠT",
+        "birthYear": 16,
+        "gender": "Nam",
+        "parentName": "Trương Minh Tới",
+        "phone": "0395733156",
+        "username": "lop3c1_7",
+        "password": "123456@",
+        "seat": {
+          "group": 1,
+          "tableIndex": 1,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em TRƯƠNG VÕ MINH ĐẠT chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-8",
+        "stt": 8,
+        "fullName": "NGUYỄN THỊ NGỌC DIỆU",
+        "birthYear": 28,
+        "gender": "Nữ",
+        "parentName": "Nguyễn Văn Rõ",
+        "phone": "0976482036",
+        "username": "lop3c1_8",
+        "password": "123456@",
+        "seat": {
+          "group": 2,
+          "tableIndex": 1,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em NGUYỄN THỊ NGỌC DIỆU chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-9",
+        "stt": 9,
+        "fullName": "VÕ MẠNH DŨNG",
+        "birthYear": 16,
+        "gender": "Nam",
+        "parentName": "võ văn sen",
+        "phone": "0334690757",
+        "username": "lop3c1_9",
+        "password": "123456@",
+        "seat": {
+          "group": 3,
+          "tableIndex": 1,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em VÕ MẠNH DŨNG chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-10",
+        "stt": 10,
+        "fullName": "LÊ KIM HÂN",
+        "birthYear": 9,
+        "gender": "Nam",
+        "parentName": "Lê Văn Minh",
+        "phone": "0334467337",
+        "username": "lop3c1_10",
+        "password": "123456@",
+        "seat": {
+          "group": 1,
+          "tableIndex": 1,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em LÊ KIM HÂN chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-11",
+        "stt": 11,
+        "fullName": "LÝ NGỌC HÂN",
+        "birthYear": 13,
+        "gender": "Nữ",
+        "parentName": "Lý Ngọc Thuấn",
+        "phone": "0937923663",
+        "username": "lop3c1_11",
+        "password": "123456@",
+        "seat": {
+          "group": 2,
+          "tableIndex": 1,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em LÝ NGỌC HÂN chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-12",
+        "stt": 12,
+        "fullName": "NGUYỄN TRUNG HIẾU",
+        "birthYear": 6,
+        "gender": "Nam",
+        "parentName": "Nguyễn Văn Trung",
+        "phone": "0368638731",
+        "username": "lop3c1_12",
+        "password": "123456@",
+        "seat": {
+          "group": 3,
+          "tableIndex": 1,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em NGUYỄN TRUNG HIẾU chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-13",
+        "stt": 13,
+        "fullName": "TRƯƠNG ĐẶNG PHÚC HƯNG",
+        "birthYear": 30,
+        "gender": "Nam",
+        "parentName": "Nguyễn Hữu Châu",
+        "phone": "0868843282",
+        "username": "lop3c1_13",
+        "password": "123456@",
+        "seat": {
+          "group": 1,
+          "tableIndex": 2,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em TRƯƠNG ĐẶNG PHÚC HƯNG chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-14",
+        "stt": 14,
+        "fullName": "PHAN GIA KHANG",
+        "birthYear": 13,
+        "gender": "Nữ",
+        "parentName": "Trương Hồng Quân",
+        "phone": "0382757467",
+        "username": "lop3c1_14",
+        "password": "123456@",
+        "seat": {
+          "group": 2,
+          "tableIndex": 2,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em PHAN GIA KHANG chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-15",
+        "stt": 15,
+        "fullName": "NGUYỄN HỮU KHANH",
+        "birthYear": 6,
+        "gender": "Nữ",
+        "parentName": "Phan Thế Duy",
+        "phone": "0394368967",
+        "username": "lop3c1_15",
+        "password": "123456@",
+        "seat": {
+          "group": 3,
+          "tableIndex": 2,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em NGUYỄN HỮU KHANH chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-16",
+        "stt": 16,
+        "fullName": "PHẠM LÊ GIA KHÁNH",
+        "birthYear": 24,
+        "gender": "Nam",
+        "parentName": "Phạm Hải Châu",
+        "phone": "0707248249",
+        "username": "lop3c1_16",
+        "password": "123456@",
+        "seat": {
+          "group": 1,
+          "tableIndex": 2,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em PHẠM LÊ GIA KHÁNH chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-17",
+        "stt": 17,
+        "fullName": "NGUYỄN HỮU KHÔI",
+        "birthYear": 30,
+        "gender": "Nam",
+        "parentName": "Nguyễn Hữu Châu",
+        "phone": "0868843282",
+        "username": "lop3c1_17",
+        "password": "123456@",
+        "seat": {
+          "group": 2,
+          "tableIndex": 2,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em NGUYỄN HỮU KHÔI chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-18",
+        "stt": 18,
+        "fullName": "TRẦN ANH KHÔI",
+        "birthYear": 18,
+        "gender": "Nữ",
+        "parentName": "Trần Minh Huệ",
+        "phone": "0345429356",
+        "username": "lop3c1_18",
+        "password": "123456@",
+        "seat": {
+          "group": 3,
+          "tableIndex": 2,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em TRẦN ANH KHÔI chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-19",
+        "stt": 19,
+        "fullName": "TRẦN HOÀNG ANH KHÔI",
+        "birthYear": 14,
+        "gender": "Nữ",
+        "parentName": "Trần Vương",
+        "phone": "0348923464",
+        "username": "lop3c1_19",
+        "password": "123456@",
+        "seat": {
+          "group": 1,
+          "tableIndex": 3,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em TRẦN HOÀNG ANH KHÔI chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-20",
+        "stt": 20,
+        "fullName": "VÕ NGUYÊN KHÔI",
+        "birthYear": 20,
+        "gender": "Nam",
+        "parentName": "Võ Văn Trung",
+        "phone": "0368567927",
+        "username": "lop3c1_20",
+        "password": "123456@",
+        "seat": {
+          "group": 2,
+          "tableIndex": 3,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em VÕ NGUYÊN KHÔI chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-21",
+        "stt": 21,
+        "fullName": "LÊ TRỌNG NGHĨA",
+        "birthYear": 28,
+        "gender": "Nam",
+        "parentName": "Lê Văn Trung",
+        "phone": "0364431677",
+        "username": "lop3c1_21",
+        "password": "123456@",
+        "seat": {
+          "group": 3,
+          "tableIndex": 3,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em LÊ TRỌNG NGHĨA chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-22",
+        "stt": 22,
+        "fullName": "PHAN THỊ ÁI NGUYỆT",
+        "birthYear": 7,
+        "gender": "Nữ",
+        "parentName": "Phan Văn Quanh",
+        "phone": "0987064819",
+        "username": "lop3c1_22",
+        "password": "123456@",
+        "seat": {
+          "group": 1,
+          "tableIndex": 3,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em PHAN THỊ ÁI NGUYỆT chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-23",
+        "stt": 23,
+        "fullName": "NGUYỄN CHÂU TÚ NHI",
+        "birthYear": 2,
+        "gender": "Nam",
+        "parentName": "Nguyễn Văn Quang",
+        "phone": "0901491719",
+        "username": "lop3c1_23",
+        "password": "123456@",
+        "seat": {
+          "group": 2,
+          "tableIndex": 3,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em NGUYỄN CHÂU TÚ NHI chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-24",
+        "stt": 24,
+        "fullName": "NGUYỄN HIỀN NHIÊN",
+        "birthYear": 9,
+        "gender": "Nam",
+        "parentName": "Nguyễn Tới Nơi",
+        "phone": "0338384515",
+        "username": "lop3c1_24",
+        "password": "123456@",
+        "seat": {
+          "group": 3,
+          "tableIndex": 3,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em NGUYỄN HIỀN NHIÊN chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-25",
+        "stt": 25,
+        "fullName": "NGUYỄN THỊ MỸ NI",
+        "birthYear": 22,
+        "gender": "Nữ",
+        "parentName": "Nguyễn Văn Nam",
+        "phone": "0962064509",
+        "username": "lop3c1_25",
+        "password": "123456@",
+        "seat": {
+          "group": 1,
+          "tableIndex": 4,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em NGUYỄN THỊ MỸ NI chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-26",
+        "stt": 26,
+        "fullName": "NGUYỄN VŨ THANH PHONG",
+        "birthYear": 16,
+        "gender": "Nữ",
+        "parentName": "Nguyễn Quang Vinh",
+        "phone": "0359214447",
+        "username": "lop3c1_26",
+        "password": "123456@",
+        "seat": {
+          "group": 2,
+          "tableIndex": 4,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em NGUYỄN VŨ THANH PHONG chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-27",
+        "stt": 27,
+        "fullName": "TRẦN NGUYỄN NHƯ QUỲNH",
+        "birthYear": 19,
+        "gender": "Nam",
+        "parentName": "Trần Đức Nghiệp",
+        "phone": "0913617688",
+        "username": "lop3c1_27",
+        "password": "123456@",
+        "seat": {
+          "group": 3,
+          "tableIndex": 4,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em TRẦN NGUYỄN NHƯ QUỲNH chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-28",
+        "stt": 28,
+        "fullName": "NGUYỄN NGỌC ANH THƯ",
+        "birthYear": 6,
+        "gender": "Nữ",
+        "parentName": "Nguyễn Văn Tàu",
+        "phone": "0393439372",
+        "username": "lop3c1_28",
+        "password": "123456@",
+        "seat": {
+          "group": 1,
+          "tableIndex": 4,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em NGUYỄN NGỌC ANH THƯ chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-29",
+        "stt": 29,
+        "fullName": "LÊ VÕ KHÁNH THY",
+        "birthYear": 21,
+        "gender": "Nam",
+        "parentName": "Lê Quốc Việt",
+        "phone": "0966578332",
+        "username": "lop3c1_29",
+        "password": "123456@",
+        "seat": {
+          "group": 2,
+          "tableIndex": 4,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em LÊ VÕ KHÁNH THY chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-30",
+        "stt": 30,
+        "fullName": "DƯƠNG MINH TRÍ",
+        "birthYear": 15,
+        "gender": "Nam",
+        "parentName": "Phụ huynh",
+        "phone": "0900000000",
+        "username": "lop3c1_30",
+        "password": "123456@",
+        "seat": {
+          "group": 3,
+          "tableIndex": 4,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em DƯƠNG MINH TRÍ chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-31",
+        "stt": 31,
+        "fullName": "LÊ THỊ NHƯ Ý",
+        "birthYear": 9,
+        "gender": "Nữ",
+        "parentName": "Lê Thanh Bằng",
+        "phone": "346012871",
+        "username": "lop3c1_31",
+        "password": "123456@",
+        "seat": {
+          "group": 1,
+          "tableIndex": 4,
+          "position": "left"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em LÊ THỊ NHƯ Ý chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      },
+      {
+        "id": "hs-imported-32",
+        "stt": 32,
+        "fullName": "Học sinh 32",
+        "birthYear": 2015,
+        "gender": "Nam",
+        "parentName": "Phụ huynh",
+        "phone": "0900000000",
+        "username": "hs.32",
+        "password": "lop3c1_32",
+        "seat": {
+          "group": 2,
+          "tableIndex": 4,
+          "position": "right"
+        },
+        "stars": 10,
+        "demerits": 0,
+        "attendance": {
+          "2026-10-22": "present"
+        },
+        "behaviorLogs": [],
+        "boardingHealth": {
+          "lunchStatus": "tốt",
+          "napStatus": "ngủ ngon",
+          "temperature": 36.5,
+          "medicineSchedule": []
+        },
+        "tt27Evaluation": {
+          "academicLevel": "H",
+          "competencies": {
+            "selfLearning": "H",
+            "collaboration": "H",
+            "problemSolving": "H"
+          },
+          "qualities": {
+            "patriotism": "T",
+            "kindness": "T",
+            "diligence": "H",
+            "honesty": "T",
+            "responsibility": "H"
+          },
+          "subjectResults": {
+            "Toán": "H",
+            "Tiếng Việt": "H",
+            "Khoa học": "H",
+            "Tiếng Anh": "H"
+          },
+          "aiComment": "Em Học sinh 32 chăm ngoan, hòa đồng với bạn bè và hoàn thành tốt nhiệm vụ học tập."
+        }
+      }
+    ],
+    "materials": [
+      {
+        "id": "mat-1",
+        "title": "Nội quy lớp học và Biểu điểm thi đua Sao Sáng năm học 2026-2027",
+        "subject": "Nề nếp & Kỷ luật",
+        "type": "doc",
+        "content": "1. Đúng 7h15 có mặt tại lớp, trang phục chỉnh tề, đeo khăn quàng đỏ.\n2. Chuẩn bị đầy đủ sách vở, dụng cụ học tập trước khi đến lớp.\n3. Xếp hàng ra vào lớp nghiêm túc, không chạy nhảy ngoài hành lang.\n4. Giờ học chú ý lắng nghe thầy cô giảng bài, tích cực phát biểu xây dựng bài.\n5. Thang điểm thi đua: Phát biểu đúng +1 sao, giúp bạn +2 sao, vệ sinh tốt +1 sao; đi muộn -1 điểm, quên sách vở -1 điểm.",
+        "fileName": "Noi_Quy_Lop_Hoc_2026.docx",
+        "fileSize": "45 KB",
+        "createdAt": "2026-10-01"
+      },
+      {
+        "id": "mat-2",
+        "title": "Đề cương ôn tập kiểm tra giữa học kỳ 1 môn Toán và Tiếng Việt",
+        "subject": "Ôn thi & Bài tập",
+        "type": "pdf",
+        "content": "Môn Toán: Phép nhân và phép chia số có 2 chữ số, bài toán giải bằng 3 bước tính, đổi đơn vị đo khối lượng (tạ, tấn, yến) và diện tích (dm2, m2).\nMôn Tiếng Việt: Luyện từ và câu: Danh từ, Động từ, Tính từ; Đoạn văn miêu tả cảnh vật quê hương hoặc đồ vật yêu thích.",
+        "fileName": "De_Cuong_On_Tap_GK1.pdf",
+        "fileSize": "1.2 MB",
+        "createdAt": "2026-10-15"
+      },
+      {
+        "id": "mat-3",
+        "title": "Kế hoạch phong trào thi đua Chào mừng 20-11 \"Bông Hoa Điểm Mười\"",
+        "subject": "Hoạt động Đội",
+        "type": "pptx",
+        "content": "Thời gian phát động: Từ 01/11 đến 20/11.\nNội dung: Mỗi tổ phấn đấu đạt 50 bông hoa điểm mười, tiết học tốt đạt 100%, hội thi làm bưu thiếp tri ân thầy cô và tiết mục văn nghệ lớp.",
+        "fileName": "Phong_Trao_20_11.pptx",
+        "fileSize": "3.4 MB",
+        "createdAt": "2026-10-20"
+      }
+    ],
+    "plans": [
+      {
+        "id": "plan-1",
+        "title": "Kế hoạch công tác chủ nhiệm Tuần 10 - Phát động thi đua đợt 20-11",
+        "category": "Kế hoạch tuần",
+        "description": "Chi tiết lịch sinh hoạt lớp, chỉ tiêu thi đua hoa điểm mười, phân công cán sự lớp theo dõi chuyên cần và kiểm tra vệ sinh.",
+        "type": "doc",
+        "sourceType": "local_file",
+        "fileName": "Ke_Hoach_Chu_Nhiem_Tuan_10.docx",
+        "fileSize": "128 KB",
+        "createdAt": "2026-10-20"
+      },
+      {
+        "id": "plan-2",
+        "title": "Ma trận & Đề cương kiểm tra định kỳ giữa Học kỳ 1 (Toán & Tiếng Việt)",
+        "category": "Chuyên môn",
+        "description": "Khung ma trận đề kiểm tra chuẩn Bộ GD&ĐT lớp 4 (Thông tư 27) gồm 4 mức độ nhận thức.",
+        "type": "pdf",
+        "sourceType": "local_file",
+        "fileName": "Ma_Tran_Kiem_Tra_GK1_Lop4.pdf",
+        "fileSize": "840 KB",
+        "createdAt": "2026-10-18"
+      },
+      {
+        "id": "plan-3",
+        "title": "CSDL Bảng Tính Google Sheet Lớp 4A1 - Trường Tiểu học Hoài Nhơn",
+        "category": "Văn bản chỉ đạo",
+        "description": "Hệ thống database trực tuyến lưu trữ danh sách, hồ sơ sức khỏe bán trú và nề nếp thi đua.",
+        "type": "link",
+        "sourceType": "database_link",
+        "externalUrl": "https://docs.google.com/spreadsheets/d/1XyZ9_ExampleSheetId_SoChuNiemAI/edit?usp=sharing",
+        "createdAt": "2026-10-15"
+      },
+      {
+        "id": "plan-4",
+        "title": "Slide Kịch Bản Sinh Hoạt Lớp Tuần 10 (Chủ điểm Bụi Phấn)",
+        "category": "Nề nếp & Đội",
+        "description": "Bộ slide trình chiếu tiết sinh hoạt lớp chiều thứ Sáu, vinh danh Top ngôi sao thi đua tuần.",
+        "type": "pptx",
+        "sourceType": "local_file",
+        "fileName": "Slide_Sinh_Hoat_Lop_Tuan_10.pptx",
+        "fileSize": "2.1 MB",
+        "createdAt": "2026-10-21"
+      }
+    ],
+    "alerts": [
+      {
+        "id": "alert-1",
+        "studentId": "hs-15",
+        "studentName": "Trịnh Hoàng Nam",
+        "type": "attendance",
+        "severity": "high",
+        "title": "Vắng không phép và đi muộn liên tiếp",
+        "description": "Học sinh vắng không phép sáng nay và đã đi muộn 2 lần trong tuần. Kèm đơn thuốc Paracetamol cần theo dõi đo thân nhiệt.",
+        "suggestedAction": "Bấm gửi tin nhắn khẩn cấp cho phụ huynh anh Trịnh Văn Đức (0978224466) và thông báo y tế bán trú.",
+        "draftMessageToParent": "Kính gửi phụ huynh em Trịnh Hoàng Nam, Thầy/Cô chủ nhiệm thông báo sáng nay lúc 7h30 em chưa có mặt tại lớp. Kính nhờ gia đình thông tin lại tình hình sức khỏe của em để nhà trường hỗ trợ kịp thời.",
+        "resolved": false,
+        "date": "2026-10-22"
+      },
+      {
+        "id": "alert-2",
+        "studentId": "hs-05",
+        "studentName": "Hoàng Quốc Đạt",
+        "type": "academic",
+        "severity": "medium",
+        "title": "Kết quả học tập môn Toán sụt giảm",
+        "description": "Em Đạt có dấu hiệu chưa hoàn thành bài tập về nhà 2 buổi liền và điểm kiểm tra chuyển từ Hoàn thành xuống Cần cố gắng.",
+        "suggestedAction": "Kích hoạt Hồ sơ can thiệp cá nhân, trao đổi với gia đình và xếp bạn Mai Anh hỗ trợ 15 phút đầu giờ.",
+        "draftMessageToParent": "Kính gửi phụ huynh em Hoàng Quốc Đạt, Thầy/Cô chủ nhiệm gửi lời chào anh Bảo. Dạo gần đây em Đạt có phần xao nhãng bài tập về nhà môn Toán. Kính mong anh nhắc em dành 30 phút buổi tối ôn lại kiến thức để lấy lại phong độ nhé!",
+        "resolved": false,
+        "date": "2026-10-21"
+      }
+    ],
+    "googleSheetConfig": {
+      "sheetUrl": "https://docs.google.com/spreadsheets/d/17B0nBeGKNNssxGBwDNXWgValcy-A7uk9/edit?usp=sharing&ouid=108184684848784697402&rtpof=true&sd=true",
+      "sheetId": "Sheet_lop3c12026",
+      "syncIntervalMinutes": 30,
+      "lastSyncedAt": "13:43",
+      "autoSync": true
+    },
+    "bilingualProgress": {
+      "practiceCount": 0,
+      "totalStarsEarned": 0,
+      "history": []
+    },
+    "bilingualLessons": [
+      {
+        "id": "bl-math",
+        "subject": "Toán bằng Tiếng Anh",
+        "grade": 4,
+        "bookSeries": "Kết Nối Tri Thức Với Cuộc Sống",
+        "unit": "Chủ đề 1: Phép nhân và Phép chia số tự nhiên",
+        "titleVi": "Phép Nhân Với Số Có Hai Chữ Số",
+        "titleEn": "Multiplication with Two-Digit Numbers",
+        "contentVi": "Khi nhân một số tự nhiên với số có hai chữ số, ta thực hiện nhân lần lượt chữ số hàng đơn vị (tích riêng thứ nhất), sau đó nhân chữ số hàng chục (tích riêng thứ hai lùi sang trái một cột), rồi cộng hai tích riêng lại với nhau.",
+        "contentEn": "When multiplying a natural number by a two-digit number, first multiply by the units digit to get the first partial product. Next, multiply by the tens digit and write the second partial product shifted one column to the left. Finally, add the two partial products together.",
+        "audioScript": "Multiplication with two-digit numbers. When multiplying, calculate the first partial product, shift the second partial product to the left, and add them together to find the final product.",
+        "keyVocabulary": [
+          {
+            "word": "Multiplication",
+            "phonetic": "/ˌmʌl.tɪ.plɪˈkeɪ.ʃən/",
+            "vietnamese": "Phép nhân",
+            "example": "Multiplication helps us count faster."
+          },
+          {
+            "word": "Partial product",
+            "phonetic": "/ˈpɑː.ʃəl ˈprɒd.ʌkt/",
+            "vietnamese": "Tích riêng",
+            "example": "Add the two partial products together."
+          },
+          {
+            "word": "Factor",
+            "phonetic": "/ˈfæk.tər/",
+            "vietnamese": "Thừa số",
+            "example": "Both numbers in the multiplication are factors."
+          },
+          {
+            "word": "Product",
+            "phonetic": "/ˈprɒd.ʌkt/",
+            "vietnamese": "Tích (kết quả)",
+            "example": "The product of 25 and 12 is 300."
+          }
+        ],
+        "bilingualPhrases": [
+          {
+            "vi": "Nhân với số có hai chữ số.",
+            "en": "Multiply by a two-digit number."
+          },
+          {
+            "vi": "Viết tích riêng thứ hai lùi sang trái một cột.",
+            "en": "Shift the second partial product one column to the left."
+          },
+          {
+            "vi": "Cộng các tích riêng lại với nhau.",
+            "en": "Add all partial products together."
+          }
+        ]
+      },
+      {
+        "id": "bl-vietnamese",
+        "subject": "Tiếng Việt bằng Tiếng Anh",
+        "grade": 4,
+        "bookSeries": "Kết Nối Tri Thức Với Cuộc Sống",
+        "unit": "Chủ đề: Vẻ đẹp quê hương đất nước",
+        "titleVi": "Mùa hoa phố núi & Nghệ thuật miêu tả",
+        "titleEn": "Mountain Flower Season & Descriptive Arts",
+        "contentVi": "Bài đọc ca ngợi vẻ đẹp rực rỡ của những cánh rừng hoa ban, hoa dã quỳ nở rộ khắp sườn đồi vùng cao Tây Bắc. Qua đó giáo dục tình yêu thiên nhiên đất nước và lòng tự hào dân tộc.",
+        "contentEn": "The passage praises the breathtaking beauty of wild sunflowers and bauhinia blossoms blooming across the northern highlands. It fosters deep love for nature and national pride.",
+        "audioScript": "Mountain flower season in Vietnam. The wild sunflowers bloom brightly across the highlands, spreading warmth, beauty, and love for nature.",
+        "keyVocabulary": [
+          {
+            "word": "Descriptive",
+            "phonetic": "/dɪˈskrɪp.tɪv/",
+            "vietnamese": "Miêu tả, tả cảnh",
+            "example": "Use rich descriptive words."
+          },
+          {
+            "word": "Highlands",
+            "phonetic": "/ˈhaɪ.ləndz/",
+            "vietnamese": "Vùng cao, cao nguyên",
+            "example": "The northern highlands of Vietnam."
+          },
+          {
+            "word": "Blossom",
+            "phonetic": "/ˈblɒs.əm/",
+            "vietnamese": "Hoa nở rộ",
+            "example": "Wild flowers blossom in spring."
+          },
+          {
+            "word": "Patriotism",
+            "phonetic": "/ˈpæt.ri.ə.tɪ.zəm/",
+            "vietnamese": "Lòng yêu nước",
+            "example": "Love for one's homeland."
+          }
+        ],
+        "bilingualPhrases": [
+          {
+            "vi": "Rừng hoa nở rộ đón ánh mặt trời.",
+            "en": "The blossom forest welcomes the warm sunshine."
+          },
+          {
+            "vi": "Tự hào về vẻ đẹp gấm vóc của quê hương.",
+            "en": "Proud of our homeland's stunning natural beauty."
+          }
+        ]
+      },
+      {
+        "id": "bl-informatics",
+        "subject": "Tin học bằng Tiếng Anh",
+        "grade": 4,
+        "bookSeries": "Kết Nối Tri Thức Với Cuộc Sống",
+        "unit": "Chủ đề: Khám phá máy tính và mạng Internet",
+        "titleVi": "Tìm kiếm thông tin an toàn trên Internet",
+        "titleEn": "Safe and Smart Internet Search",
+        "contentVi": "Để tìm kiếm thông tin hiệu quả, em dùng từ khóa chính xác trong dấu ngoặc kép. Tuyệt đối không chia sẻ mật khẩu, địa chỉ nhà hay thông tin cá nhân với người lạ trên mạng.",
+        "contentEn": "To search information effectively, use specific keywords in quotation marks. Never share your password, home address, or personal data with strangers online.",
+        "audioScript": "Safe internet search for students. Always protect your privacy, never share personal information with strangers, and evaluate online resources critically.",
+        "keyVocabulary": [
+          {
+            "word": "Search engine",
+            "phonetic": "/ˈsɜːtʃ ˌen.dʒɪn/",
+            "vietnamese": "Công cụ tìm kiếm",
+            "example": "Use a reliable search engine."
+          },
+          {
+            "word": "Keyword",
+            "phonetic": "/ˈkiː.wɜːd/",
+            "vietnamese": "Từ khóa tìm kiếm",
+            "example": "Type exact keywords for better results."
+          },
+          {
+            "word": "Cybersecurity",
+            "phonetic": "/ˌsaɪ.bə.sɪˈkjʊə.rə.ti/",
+            "vietnamese": "An toàn không gian mạng",
+            "example": "Learn basic cybersecurity rules."
+          },
+          {
+            "word": "Privacy",
+            "phonetic": "/ˈprɪv.ə.si/",
+            "vietnamese": "Quyền riêng tư",
+            "example": "Protect your privacy online."
+          }
+        ],
+        "bilingualPhrases": [
+          {
+            "vi": "Bảo vệ mật khẩu và thông tin cá nhân.",
+            "en": "Protect your passwords and personal information."
+          },
+          {
+            "vi": "Sử dụng từ khóa chính xác.",
+            "en": "Use precise keywords when searching."
+          }
+        ]
+      },
+      {
+        "id": "bl-ethics",
+        "subject": "Đạo Đức & Kỹ năng sống bằng Tiếng Anh",
+        "grade": 4,
+        "bookSeries": "Kết Nối Tri Thức Với Cuộc Sống",
+        "unit": "Chủ đề: Biết ơn thầy cô và yêu thương bạn bè",
+        "titleVi": "Tôn Sư Trọng Đạo - Lòng Biết Ơn",
+        "titleEn": "Respecting Teachers - The Value of Gratitude",
+        "contentVi": "Tôn sư trọng đạo là truyền thống quý báu của dân tộc Việt Nam. Học sinh bày tỏ lòng biết ơn bằng việc chăm chỉ học tập, lễ phép vâng lời và giữ gìn nề nếp kỷ luật.",
+        "contentEn": "Respecting teachers is a cherished tradition in Vietnam. Students show gratitude through diligent studying, polite manners, and active participation in class.",
+        "audioScript": "Respecting teachers and cherishing our school values. Gratitude inspires us to listen attentively and support our classmates with kindness.",
+        "keyVocabulary": [
+          {
+            "word": "Gratitude",
+            "phonetic": "/ˈɡræt.ɪ.tʃuːd/",
+            "vietnamese": "Lòng biết ơn",
+            "example": "Express heartfelt gratitude to your mentors."
+          },
+          {
+            "word": "Respect",
+            "phonetic": "/rɪˈspekt/",
+            "vietnamese": "Sự tôn kính, tôn trọng",
+            "example": "Treat everyone with respect."
+          },
+          {
+            "word": "Tradition",
+            "phonetic": "/trəˈdɪʃ.ən/",
+            "vietnamese": "Truyền thống văn hóa",
+            "example": "Preserve cultural traditions."
+          },
+          {
+            "word": "Politeness",
+            "phonetic": "/pəˈlaɪt.nəs/",
+            "vietnamese": "Sự lễ phép, lịch sự",
+            "example": "Politeness opens many doors."
+          }
+        ],
+        "bilingualPhrases": [
+          {
+            "vi": "Nhất tự vi sư, bán tự vi sư.",
+            "en": "One day a teacher, forever a master."
+          },
+          {
+            "vi": "Luôn chào hỏi lễ phép khi gặp thầy cô.",
+            "en": "Always greet teachers politely when meeting them."
+          }
+        ]
+      },
+      {
+        "id": "bl-technology",
+        "subject": "Công nghệ bằng Tiếng Anh",
+        "grade": 4,
+        "bookSeries": "Kết Nối Tri Thức Với Cuộc Sống",
+        "unit": "Chủ đề: Thủ công và mô hình kỹ thuật",
+        "titleVi": "Lắp ráp mô hình quạt điện & Năng lượng sạch",
+        "titleEn": "Assembling Electric Fan Models & Clean Energy",
+        "contentVi": "Học sinh thực hành lắp ráp mạch điện đơn giản gồm pin, công tắc và cánh quạt mini. Tìm hiểu nguyên lý chuyển hóa điện năng thành cơ năng và năng lượng gió thân thiện môi trường.",
+        "contentEn": "Students assemble a simple circuit comprising a battery, switch, and mini fan blade. Understand how electrical energy converts into mechanical energy and wind power.",
+        "audioScript": "Technology and clean energy. Connecting a battery and switch powers the mini fan motor, demonstrating green energy concepts.",
+        "keyVocabulary": [
+          {
+            "word": "Circuit",
+            "phonetic": "/ˈsɜː.kɪt/",
+            "vietnamese": "Mạch điện",
+            "example": "A complete electric circuit."
+          },
+          {
+            "word": "Switch",
+            "phonetic": "/swɪtʃ/",
+            "vietnamese": "Công tắc điện",
+            "example": "Turn the switch on and off."
+          },
+          {
+            "word": "Clean energy",
+            "phonetic": "/kliːn ˈen.ə.dʒi/",
+            "vietnamese": "Năng lượng sạch",
+            "example": "Wind and solar are clean energy."
+          },
+          {
+            "word": "Assemble",
+            "phonetic": "/əˈsem.bəl/",
+            "vietnamese": "Lắp ráp mô hình",
+            "example": "Assemble the parts according to instructions."
+          }
+        ],
+        "bilingualPhrases": [
+          {
+            "vi": "Đóng công tắc để khởi động cánh quạt.",
+            "en": "Close the switch to start the fan blades."
+          },
+          {
+            "vi": "Tiết kiệm điện là bảo vệ môi trường.",
+            "en": "Saving electricity protects our environment."
+          }
+        ]
+      },
+      {
+        "id": "bl-steam",
+        "subject": "STEAM bằng Tiếng Anh",
+        "grade": 4,
+        "bookSeries": "Kết Nối Tri Thức Với Cuộc Sống",
+        "unit": "Dự án STEAM: Kỹ thuật Thủy lực & Năng lượng Tái tạo",
+        "titleVi": "Thiết Kế Cầu Thủy Lực & Thử Nghiệm Tải Trọng",
+        "titleEn": "Hydraulic Bridge Design & Load Bearing Test",
+        "contentVi": "Dự án STEAM tích hợp Khoa học và Kỹ thuật: Học sinh ứng dụng nguyên lý áp suất chất lỏng bằng xi-lanh và ống dẫn để nâng hạ nhịp cầu cất. Ghi chép nhật ký thử nghiệm tải trọng và tối ưu thiết kế mô hình.",
+        "contentEn": "A hands-on STEAM project integrating science and engineering: Students apply fluid pressure using syringes and tubing to lift and lower a bascule bridge. They record load bearing data and optimize structural designs.",
+        "audioScript": "STEAM hands-on engineering project. Building a hydraulic bridge using fluid pressure principles, testing load capacity, and refining our structural model with creativity.",
+        "keyVocabulary": [
+          {
+            "word": "Hydraulic",
+            "phonetic": "/haɪˈdrɒl.ɪk/",
+            "vietnamese": "Thủy lực (áp lực chất lỏng)",
+            "example": "Hydraulic pressure powers the lifting mechanism."
+          },
+          {
+            "word": "Engineering",
+            "phonetic": "/ˌen.dʒɪˈnɪə.rɪŋ/",
+            "vietnamese": "Kỹ thuật chế tạo",
+            "example": "Engineering solves real-world challenges."
+          },
+          {
+            "word": "Prototype",
+            "phonetic": "/ˈprəʊ.tə.taɪp/ ",
+            "vietnamese": "Bản mẫu thử nghiệm",
+            "example": "Build and test your prototype first."
+          },
+          {
+            "word": "Load capacity",
+            "phonetic": "/ləʊd kəˈpæs.ə.ti/",
+            "vietnamese": "Khả năng chịu tải",
+            "example": "Measure the maximum load capacity."
+          }
+        ],
+        "bilingualPhrases": [
+          {
+            "vi": "Thiết kế bản mẫu và thử nghiệm độ chịu tải.",
+            "en": "Design the prototype and test load capacity."
+          },
+          {
+            "vi": "Khoa học và công nghệ giúp kiến tạo tương lai.",
+            "en": "Science and technology shape our future."
+          }
+        ]
+      },
+      {
+        "id": "bl-history",
+        "subject": "Lịch sử & Địa lý bằng Tiếng Anh",
+        "grade": 4,
+        "bookSeries": "Kết Nối Tri Thức Với Cuộc Sống",
+        "unit": "Chủ đề: Thăng Long - Hà Nội & Vùng đồng bằng Bắc Bộ",
+        "titleVi": "Chiếu Dời Đô của Vua Lý Thái Tổ & Địa hình Đồng Bằng",
+        "titleEn": "The Edict on Capital Relocation & The Red River Delta",
+        "contentVi": "Năm 1010, vua Lý Thái Tổ ban Chiếu dời đô từ Hoa Lư về thành Đại La và đổi tên là Thăng Long. Đây là vùng châu thổ sông Hồng màu mỡ, địa linh nhân kiệt, muôn đời phồn thịnh.",
+        "contentEn": "In 1010, King Ly Thai To issued the imperial edict transferring the national capital from Hoa Lu to Dai La, renaming it Thang Long. Situated in the fertile Red River Delta, it became the heart of Vietnam.",
+        "audioScript": "In 1010, King Ly Thai To established Thang Long as the capital of Vietnam, founding a millennium of cultural heritage and heroic history in the fertile Red River Delta.",
+        "keyVocabulary": [
+          {
+            "word": "Edict",
+            "phonetic": "/ˈiː.dɪkt/",
+            "vietnamese": "Chiếu chỉ hoàng gia",
+            "example": "The royal edict was proclaimed."
+          },
+          {
+            "word": "Capital",
+            "phonetic": "/ˈkæp.ɪ.təl/",
+            "vietnamese": "Thủ đô, kinh đô",
+            "example": "Hanoi is the historic capital."
+          },
+          {
+            "word": "Delta",
+            "phonetic": "/ˈdel.tə/",
+            "vietnamese": "Châu thổ, vùng đồng bằng",
+            "example": "The fertile Red River Delta."
+          },
+          {
+            "word": "Heritage",
+            "phonetic": "/ˈher.ɪ.tɪdʒ/",
+            "vietnamese": "Di sản văn hóa",
+            "example": "Preserving our national heritage."
+          }
+        ],
+        "bilingualPhrases": [
+          {
+            "vi": "Kinh đô Thăng Long ngàn năm văn hiến.",
+            "en": "The thousand-year cultural heritage of Thang Long."
+          },
+          {
+            "vi": "Địa linh nhân kiệt trên vùng đất châu thổ.",
+            "en": "A blessed land of outstanding heroes on the fertile delta."
+          }
+        ]
+      },
+      {
+        "id": "bl-science",
+        "subject": "Khoa học / TN&XH bằng Tiếng Anh",
+        "grade": 4,
+        "bookSeries": "Kết Nối Tri Thức Với Cuộc Sống",
+        "unit": "Chủ đề: Ánh sáng, Không khí và Đời sống",
+        "titleVi": "Vòng tuần hoàn của nước trong tự nhiên",
+        "titleEn": "The Water Cycle in Nature",
+        "contentVi": "Nước dưới mặt đất và biển bốc hơi dưới ánh nắng mặt trời tạo thành mây. Mây ngưng tụ gặp lạnh thành mưa rơi xuống, nuôi dưỡng cây cỏ rồi lại chảy về đại dương.",
+        "contentEn": "Water on the surface evaporates under sunlight, rising into clouds. Water vapor condenses into raindrops, nurturing ecosystems and returning to oceans in a continuous cycle.",
+        "audioScript": "The water cycle in nature. Evaporation, condensation, and precipitation work together continuously to sustain all living creatures on Earth.",
+        "keyVocabulary": [
+          {
+            "word": "Evaporation",
+            "phonetic": "/ɪˌvæp.əˈreɪ.ʃən/",
+            "vietnamese": "Sự bay hơi",
+            "example": "Sunlight causes water evaporation."
+          },
+          {
+            "word": "Condensation",
+            "phonetic": "/ˌkɒn.denˈseɪ.ʃən/",
+            "vietnamese": "Sự ngưng tụ",
+            "example": "Water vapor condenses into clouds."
+          },
+          {
+            "word": "Precipitation",
+            "phonetic": "/prɪˌsɪp.ɪˈteɪ.ʃən/",
+            "vietnamese": "Lượng mưa rơi",
+            "example": "Rain is liquid precipitation."
+          },
+          {
+            "word": "Water cycle",
+            "phonetic": "/ˈwɔː.tər ˌsaɪ.kəl/",
+            "vietnamese": "Vòng tuần hoàn nước",
+            "example": "The continuous water cycle."
+          }
+        ],
+        "bilingualPhrases": [
+          {
+            "vi": "Nước bốc hơi tạo thành mây trên bầu trời.",
+            "en": "Water evaporates and forms clouds in the sky."
+          },
+          {
+            "vi": "Mưa cung cấp nước ngọt cho sinh vật.",
+            "en": "Rain provides fresh water for living organisms."
+          }
+        ]
+      },
+      {
+        "id": "bl-lifeskills",
+        "subject": "Kỹ năng sống bằng Tiếng Anh",
+        "grade": 4,
+        "bookSeries": "Kết Nối Tri Thức Với Cuộc Sống",
+        "unit": "Chủ đề: Kỹ năng an toàn và phòng chống đuối nước",
+        "titleVi": "Phòng Tránh Tai Nạn Đuối Nước & Xử Lý Tình Huống",
+        "titleEn": "Drowning Prevention & Emergency Response",
+        "contentVi": "Tuyệt đối không tắm ao hồ sông suối một mình mà không có người lớn đi kèm. Khi thấy bạn bị đuối nước, hô to kêu cứu và ném phao hoặc cành cây, không nhảy xuống nước.",
+        "contentEn": "Never swim in ponds, rivers, or lakes alone without adult supervision. If you see someone struggling, shout loudly for help and throw a lifebuoy or branch, do not jump in.",
+        "audioScript": "Water safety and drowning prevention. Never swim alone, always stay supervised, and know how to call for emergency help safely.",
+        "keyVocabulary": [
+          {
+            "word": "Prevention",
+            "phonetic": "/prɪˈven.ʃən/",
+            "vietnamese": "Sự phòng tránh",
+            "example": "Prevention is better than cure."
+          },
+          {
+            "word": "Supervision",
+            "phonetic": "/ˌsuː.pəˈvɪʒ.ən/",
+            "vietnamese": "Sự giám sát của người lớn",
+            "example": "Adult supervision is required."
+          },
+          {
+            "word": "Lifebuoy",
+            "phonetic": "/ˈlaɪf.bɔɪ/",
+            "vietnamese": "Phao cứu sinh",
+            "example": "Throw a lifebuoy to the swimmer."
+          },
+          {
+            "word": "Emergency",
+            "phonetic": "/ɪˈmɜː.dʒən.si/",
+            "vietnamese": "Tình huống khẩn cấp",
+            "example": "Call the emergency hotline immediately."
+          }
+        ],
+        "bilingualPhrases": [
+          {
+            "vi": "Không bao giờ đi bơi một mình.",
+            "en": "Never go swimming alone."
+          },
+          {
+            "vi": "Hô to để người lớn ứng cứu kịp thời.",
+            "en": "Shout loudly so adults can rescue in time."
+          }
+        ]
+      }
+    ],
+    "bilingualEnabled": true,
+    "bilingualTtsSettings": {
+      "rate": 1,
+      "defaultMode": "both",
+      "autoHighlight": true
+    },
+    "luckyWheelHistory": [],
+    "deviceInfo": "Chrome trên Windows 10/11",
+    "version": 1,
+    "lastSavedAt": "19:54:21"
+  }
+}
